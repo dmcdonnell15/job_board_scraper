@@ -1,4 +1,4 @@
-# Personalize Job Board Scraper
+# Personalized Job Board Scraper
 Below are the steps to create a simple tool to scrape select job boards from commmonly-used job hosting sites to automatically send a personalized email of relevant postings
 
 1. Job scraping script will hold the list of job sites you're interested in, the function to scrape the sites, and the function to send the email with the personalized job postings
