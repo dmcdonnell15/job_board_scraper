@@ -10,7 +10,8 @@ import time
 greenhouse_job_boards = [
     "https://boards.greenhouse.io/questbridge",
     "https://boards.greenhouse.io/coursera",
-    "https://boards.greenhouse.io/outschool", 
+    "https://boards.greenhouse.io/outschool",
+    "https://boards.greenhouse.io/articulate", 
     # Add more job board URLs here
 ]
 
@@ -130,8 +131,8 @@ def send_email(subject, body, sender, recipients, password):
 
 subject = "Jobs Report"
 body = tabulate.tabulate(jobs, tablefmt='simple', headers='keys')  
-sender = "email@gmail.com"
-recipients = ["email@gmail.com"]
-password = "your_password"
+sender = "email@email.com"
+recipients = ["email@email.com"]
+password = "password"
 
 send_email(subject, body, sender, recipients, password)
