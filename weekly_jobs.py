@@ -11,7 +11,12 @@ greenhouse_job_boards = [
     "https://boards.greenhouse.io/questbridge",
     "https://boards.greenhouse.io/coursera",
     "https://boards.greenhouse.io/outschool",
-    "https://boards.greenhouse.io/articulate", 
+    "https://boards.greenhouse.io/articulate",
+    "https://boards.greenhouse.io/equilibriumenergy",
+    "https://boards.greenhouse.io/antora",
+    "https://boards.greenhouse.io/amperon",
+    "https://boards.greenhouse.io/pluspower",
+    "https://boards.greenhouse.io/spanio",
     # Add more job board URLs here
 ]
 
@@ -26,7 +31,9 @@ breezy_job_boards = [
 # Lever
 lever_job_boards = [
     "https://jobs.lever.co/indigoag",
-    "https://jobs.lever.co/stradaeducation"
+    "https://jobs.lever.co/stradaeducation",
+    "https://jobs.lever.co/gridmatic",
+    "https://jobs.lever.co/stable"
     # Add more job board URLs here
 ]
 
