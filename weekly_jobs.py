@@ -33,7 +33,9 @@ lever_job_boards = [
     "https://jobs.lever.co/indigoag",
     "https://jobs.lever.co/stradaeducation",
     "https://jobs.lever.co/gridmatic",
-    "https://jobs.lever.co/stable"
+    "https://jobs.lever.co/stable",
+    "https://jobs.lever.co/qcells",
+    "https://jobs.lever.co/yardstick"
     # Add more job board URLs here
 ]
 
